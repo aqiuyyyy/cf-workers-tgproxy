@@ -182,3 +182,4 @@ TG 客户端本身就有多流、并且会自动分流，所以 lanes 让**每�
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=toicf/cf-workers-tgproxy&type=date&legend=top-left" />
  </picture>
 </a>
+<!-- trigger: first Cloudflare Workers GitHub build for tgproxy -->
